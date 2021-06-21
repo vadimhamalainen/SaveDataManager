@@ -1,2 +1,2 @@
 # SaveDataManager
-saving data in Unity beetwin scenes and sessions
+saving data in Unity between scenes and sessions
